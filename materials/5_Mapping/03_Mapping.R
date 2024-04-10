@@ -17,6 +17,9 @@
 # ...and never skip lines!!!
 # In case of doubt, you can always restart from the beginning
 
+# set the working directory
+setwd("/cloud/project/materials/5_Mapping/")
+
 library(leaflet)
 library(sf)
 

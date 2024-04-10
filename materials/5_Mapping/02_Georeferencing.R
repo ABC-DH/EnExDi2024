@@ -17,6 +17,9 @@
 # ...and never skip lines!!!
 # In case of doubt, you can always restart from the beginning
 
+# set the working directory
+setwd("/cloud/project/materials/5_Mapping/")
+
 # set the options to your username in geonames
 options(geonamesUsername="my_username")
 # you will have to substitute "my_username" with your actual username
