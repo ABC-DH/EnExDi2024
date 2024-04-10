@@ -1,0 +1,1477 @@
+0,JOHN H. WATSON,PERSON
+1,M.D.,GPE
+2,the Army Medical Department,ORG
+3,2,CARDINAL
+4,CHAPTER I. MR,ORG
+5,the year 1878,DATE
+6,the University of London,ORG
+7,Netley,GPE
+8,Fifth,ORDINAL
+9,India,GPE
+10,second,ORDINAL
+11,Afghan,NORP
+12,Bombay,GPE
+13,Candahar,PERSON
+14,Berkshires,PERSON
+15,Maiwand,GPE
+16,Jezail,PERSON
+17,subclavian,NORP
+18,Ghazis,ORG
+19,Murray,ORG
+20,British,NORP
+21,Peshawar,GPE
+22,Indian,NORP
+23,months,DATE
+24,England,GPE
+25,Orontes,NORP
+26,a month later,DATE
+27,Portsmouth,ORG
+28,the next nine months,DATE
+29,England,GPE
+30,eleven,CARDINAL
+31,London,GPE
+32,Empire,ORG
+33,Strand,GPE
+34,the very day,DATE
+35,the Criterion Bar,FAC
+36,Stamford,GPE
+37,Barts,ORG
+38,London,GPE
+39,Stamford,GPE
+40,Holborn,LOC
+41,Watson,PERSON
+42,London,GPE
+43,3,CARDINAL
+44,second,ORDINAL
+45,first,ORDINAL
+46,this morning,TIME
+47,Young Stamford,PERSON
+48,Sherlock Holmes,PERSON
+49,"I.
+“",PERSON
+50,first,ORDINAL
+51,Afghanistan,GPE
+52,weeks,DATE
+53,from morning,TIME
+54,Holborn,GPE
+55,Stamford,GPE
+56,Stamford,GPE
+57,Holmes,PERSON
+58,vista,ORG
+59,Bunsen,PERSON
+60,only one,CARDINAL
+61,4,CARDINAL
+62,Watson,PERSON
+63,Sherlock Holmes,PERSON
+64,Stamford,GPE
+65,Afghanistan,GPE
+66,years,DATE
+67,more than one,CARDINAL
+68,a million,CARDINAL
+69,Guiacum,ORG
+70,a few hours old,TIME
+71,hundreds,CARDINAL
+72,one,CARDINAL
+73,a crime months,DATE
+74,the Sherlock Holmes’ test,WORK_OF_ART
+75,Von Bischoff,PERSON
+76,Frankfort,GPE
+77,last year,DATE
+78,Bradford,GPE
+79,Muller,ORG
+80,Lefevre of Montpellier,ORG
+81,Samson of New Orleans,ORG
+82,Stamford,GPE
+83,the ‘Police News of the Past,ORG
+84,Sherlock Holmes,PERSON
+85,Stamford,GPE
+86,three,CARDINAL
+87,Sherlock Holmes,WORK_OF_ART
+88,Baker Street,FAC
+89,days,DATE
+90,two,CARDINAL
+91,Call for me here at noon,WORK_OF_ART
+92,noon,TIME
+93,Stamford,GPE
+94,Afghanistan,GPE
+95,Stamford,PERSON
+96,CHAPTER II,LAW
+97,next day,DATE
+98,221B,CARDINAL
+99,5,CARDINAL
+100,two,CARDINAL
+101,Sherlock Holmes,FAC
+102,two,CARDINAL
+103,Holmes,PERSON
+104,ten at night,TIME
+105,days,DATE
+106,morning,TIME
+107,the weeks,DATE
+108,over six feet,QUANTITY
+109,Stamford,ORG
+110,Thomas Carlyle,PERSON
+111,the Copernican Theory,ORG
+112,the Solar System,ORG
+113,this nineteenth century,DATE
+114,1,CARDINAL
+115,2,CARDINAL
+116,3,CARDINAL
+117,4,CARDINAL
+118,5,CARDINAL
+119,6,CARDINAL
+120,London,GPE
+121,7,CARDINAL
+122,8,CARDINAL
+123,9,CARDINAL
+124,the century,DATE
+125,10,CARDINAL
+126,11,CARDINAL
+127,12,CARDINAL
+128,British,NORP
+129,Mendelssohn,GPE
+130,the first week or,DATE
+131,one,CARDINAL
+132,Lestrade,PERSON
+133,three or four,CARDINAL
+134,a single week,DATE
+135,One morning,TIME
+136,half an hour,TIME
+137,afternoon,TIME
+138,Jew,NORP
+139,Sherlock Holmes,PERSON
+140,4th of March,DATE
+141,Sherlock Holmes,PERSON
+142,One,CARDINAL
+143,“The Book of Life,WORK_OF_ART
+144,Deceit,PERSON
+145,Atlantic,LOC
+146,Niagara,PERSON
+147,one,CARDINAL
+148,the Science of Deduction and Analysis,ORG
+149,Sherlock Holmes,PERSON
+150,third,ORDINAL
+151,Underground,LOC
+152,a thousand,CARDINAL
+153,Sherlock Holmes,PERSON
+154,London,GPE
+155,a thousand,CARDINAL
+156,Lestrade,PERSON
+157,second,ORDINAL
+158,first,ORDINAL
+159,Afghanistan,GPE
+160,“Nothing of the sort,WORK_OF_ART
+161,Afghanistan,GPE
+162,English,NORP
+163,Afghanistan,GPE
+164,Afghanistan,GPE
+165,Edgar Allen Poe’s Dupin,PERSON
+166,Sherlock Holmes,WORK_OF_ART
+167,Dupin,PERSON
+168,Dupin,PERSON
+169,a quarter of an hour,DATE
+170,Gaboriau,PERSON
+171,Lecoq,PERSON
+172,Sherlock Holmes,WORK_OF_ART
+173,Lecoq,PERSON
+174,only one,CARDINAL
+175,twenty-four hours,TIME
+176,Lecoq,PERSON
+177,six months or so,DATE
+178,two,CARDINAL
+179,these days,DATE
+180,Scotland Yard,ORG
+181,Marines,ORG
+182,Sherlock Holmes,PERSON
+183,Sherlock Holmes,PERSON
+184,Commissionaire,ORG
+185,Royal Marine Light Infantry,ORG
+186,6,CARDINAL
+187,Marines,ORG
+188,Marines,ORG
+189,two and two,CARDINAL
+190,four,CARDINAL
+191,Holmes,PERSON
+192,the night,TIME
+193,3,CARDINAL
+194,Lauriston Gardens,LOC
+195,the Brixton Road,FAC
+196,about two,CARDINAL
+197,Cleveland,GPE
+198,Ohio,GPE
+199,U.S.A.,GPE
+200,twelve,CARDINAL
+201,TOBIAS,ORG
+202,the Scotland Yarders,ORG
+203,Lestrade,PERSON
+204,Gregson,ORG
+205,Lestrade,PERSON
+206,third,ORDINAL
+207,A minute later,TIME
+208,the Brixton Road,FAC
+209,Cremona,PERSON
+210,Stradivarius,ORG
+211,Amati,GPE
+212,Holmes,PERSON
+213,the Brixton Road,FAC
+214,a hundred yards,QUANTITY
+215,Number 3,CARDINAL
+216,Lauriston Gardens,LOC
+217,one,CARDINAL
+218,four,CARDINAL
+219,two,CARDINAL
+220,two,CARDINAL
+221,three,CARDINAL
+222,the night,TIME
+223,three-foot,QUANTITY
+224,Sherlock Holmes,PERSON
+225,Gregson,ORG
+226,Lestrade,PERSON
+227,Holmes,PERSON
+228,two,CARDINAL
+229,Lestrade,PERSON
+230,third,ORDINAL
+231,Gregson,ORG
+232,Sherlock Holmes,PERSON
+233,Nor Lestrade,WORK_OF_ART
+234,Gregson,ORG
+235,Two,CARDINAL
+236,One,CARDINAL
+237,many weeks,DATE
+238,Holmes,PERSON
+239,showy fireplace,PERSON
+240,one,CARDINAL
+241,about forty-three,CARDINAL
+242,forty-four years of age,DATE
+243,London,GPE
+244,Lestrade,PERSON
+245,Gregson,ORG
+246,Lestrade,PERSON
+247,Sherlock Holmes,PERSON
+248,second,ORDINAL
+249,Van Jansen,PERSON
+250,Utrecht,GPE
+251,the year ‘34,DATE
+252,Gregson,ORG
+253,Gregson,ORG
+254,four,CARDINAL
+255,Lestrade,PERSON
+256,Gregson,ORG
+257,Holmes,PERSON
+258,Gregson,ORG
+259,97163,DATE
+260,Barraud,LOC
+261,London,GPE
+262,Gold Albert,PERSON
+263,Russian,NORP
+264,Enoch J. Drebber,PERSON
+265,Cleveland,GPE
+266,the E. J. D.,PERSON
+267,seven pounds,QUANTITY
+268,thirteen,CARDINAL
+269,Boccaccio’s ‘Decameron,ORG
+270,Joseph Stangerson,PERSON
+271,Two,CARDINAL
+272,E. J. Drebber,PERSON
+273,Joseph Stangerson,PERSON
+274,American Exchange,ORG
+275,Strand,GPE
+276,the Guion Steamship Company,ORG
+277,Liverpool,GPE
+278,New York,GPE
+279,Stangerson,PERSON
+280,Gregson,ORG
+281,one,CARDINAL
+282,the American Exchange,ORG
+283,Cleveland,GPE
+284,this morning,TIME
+285,Stangerson,PERSON
+286,Gregson,ORG
+287,Sherlock Holmes,PERSON
+288,Lestrade,PERSON
+289,Gregson,PERSON
+290,"word--
+                         RACHE",ORG
+291,Gregson,ORG
+292,Rachel,PERSON
+293,Rachel,PERSON
+294,Sherlock Holmes,PERSON
+295,first,ORDINAL
+296,last night’s mystery,TIME
+297,two,CARDINAL
+298,twenty minutes,TIME
+299,one,CARDINAL
+300,most minute,TIME
+301,Gregson,ORG
+302,Lestrade,PERSON
+303,9,CARDINAL
+304,Sherlock Holmes,PERSON
+305,Lestrade,PERSON
+306,John Rance,PERSON
+307,46,DATE
+308,Audley Court,ORG
+309,Kennington Park Gate,FAC
+310,Holmes,PERSON
+311,one,CARDINAL
+312,two,CARDINAL
+313,more than six feet,QUANTITY
+314,Trichinopoly,ORG
+315,four,CARDINAL
+316,three,CARDINAL
+317,one,CARDINAL
+318,Lestrade,PERSON
+319,Gregson,ORG
+320,Poison,ORG
+321,Sherlock Holmes,PERSON
+322,One,CARDINAL
+323,Lestrade,PERSON
+324,German,NORP
+325,Rachel,PERSON
+326,Parthian,NORP
+327,two,CARDINAL
+328,3,CARDINAL
+329,Lauriston Gardens,LOC
+330,Sherlock Holmes,PERSON
+331,Lestrade,PERSON
+332,first,ORDINAL
+333,Holmes,PERSON
+334,I. “Surely,PERSON
+335,two,CARDINAL
+336,last night,TIME
+337,a week,DATE
+338,the night,TIME
+339,one,CARDINAL
+340,three,CARDINAL
+341,Gregson,ORG
+342,the night,TIME
+343,two,CARDINAL
+344,nine,CARDINAL
+345,ten,CARDINAL
+346,just over six feet,QUANTITY
+347,four,CARDINAL
+348,Trichinopoly,ORG
+349,Trichinopoly,ORG
+350,Gregson,LOC
+351,Lestrade,PERSON
+352,two,CARDINAL
+353,two,CARDINAL
+354,one,CARDINAL
+355,second,ORDINAL
+356,German,NORP
+357,RACHE,ORG
+358,Lestrade,PERSON
+359,Socialism,PERSON
+360,German,NORP
+361,A,ORG
+362,German,NORP
+363,German,NORP
+364,Latin,NORP
+365,one,CARDINAL
+366,10,CARDINAL
+367,Halle,GPE
+368,Norman Neruda,PERSON
+369,this afternoon,TIME
+370,That’s Audley Court,ORG
+371,Audley Court,ORG
+372,Number 46,CARDINAL
+373,Rance,WORK_OF_ART
+374,Holmes,PERSON
+375,half,CARDINAL
+376,ten at night,TIME
+377,six in the morning,TIME
+378,eleven,TIME
+379,the ‘White Hart,FAC
+380,Harry Murcher,PERSON
+381,the Holland Grove,ORG
+382,Henrietta Street,FAC
+383,about two,CARDINAL
+384,the Brixton Road,FAC
+385,two,CARDINAL
+386,four,CARDINAL
+387,two,CARDINAL
+388,Lauriston Gardens,LOC
+389,one,CARDINAL
+390,Rance,WORK_OF_ART
+391,Sherlock Holmes,FAC
+392,Murcher,PERSON
+393,John Rance,PERSON
+394,Holmes,PERSON
+395,Gregson,PERSON
+396,Lestrade,PERSON
+397,Murcher,PERSON
+398,two,CARDINAL
+399,Columbine,ORG
+400,Banner,ORG
+401,Sherlock Holmes,PERSON
+402,John Rance,PERSON
+403,Holmes,PERSON
+404,Murcher,PERSON
+405,Holmes,PERSON
+406,There’s a half-sovereign,WORK_OF_ART
+407,Rance,WORK_OF_ART
+408,last night,TIME
+409,Holmes,PERSON
+410,second,ORDINAL
+411,two,CARDINAL
+412,Norman Neruda,PERSON
+413,Chopin,PERSON
+414,morning,TIME
+415,Holmes,PERSON
+416,a couple of hours,TIME
+417,Enoch J. Drebber,PERSON
+418,Cleveland,GPE
+419,11,CARDINAL
+420,Holmes,PERSON
+421,Darwin,PERSON
+422,One,CARDINAL
+423,Nature,WORK_OF_ART
+424,Afghan,NORP
+425,Maiwand,GPE
+426,evening,TIME
+427,one,CARDINAL
+428,this morning,TIME
+429,first,ORDINAL
+430,Found,WORK_OF_ART
+431,Brixton Road,FAC
+432,this morning,TIME
+433,the ‘White Hart’ Tavern,ORG
+434,Holland Grove,GPE
+435,Watson,PERSON
+436,221B,CARDINAL
+437,between eight and nine,CARDINAL
+438,Drebber,PERSON
+439,the evening,TIME
+440,an hour,TIME
+441,Holmes,PERSON
+442,American,NORP
+443,eight o’clock,TIME
+444,a few minutes,TIME
+445,Latin at Liege,LOC
+446,Lowlands,PRODUCT
+447,1642,DATE
+448,Philippe de Croy,WORK_OF_ART
+449,Guliolmi Whyte,PERSON
+450,William Whyte,PERSON
+451,seventeenth century,DATE
+452,Sherlock Holmes,PERSON
+453,Does Dr. Watson live here,WORK_OF_ART
+454,some one,CARDINAL
+455,evening,TIME
+456,the Brixton Road,FAC
+457,Sally,PERSON
+458,only this time twelvemonth,DATE
+459,last night,TIME
+460,The Lord be thanked,WORK_OF_ART
+461,Sally,PERSON
+462,this night,TIME
+463,13,CARDINAL
+464,Duncan Street,GPE
+465,The Brixton Road,WORK_OF_ART
+466,Houndsditch,ORG
+467,Sherlock Holmes,PERSON
+468,Sally,PERSON
+469,3,CARDINAL
+470,Mayfield Place,PERSON
+471,Peckham,PERSON
+472,Sawyer,PERSON
+473,Dennis,PERSON
+474,Tom Dennis,PERSON
+475,Sawyer,PERSON
+476,Sherlock Holmes,PERSON
+477,a few seconds,TIME
+478,Holmes,PERSON
+479,Henri Murger’s,ORG
+480,Ten o’clock,TIME
+481,the day,DATE
+482,the Scotland Yarders,ORG
+483,four,CARDINAL
+484,13,CARDINAL
+485,Duncan Street,GPE
+486,Number 13,CARDINAL
+487,Keswick,PERSON
+488,Sawyer or Dennis,PERSON
+489,Sherlock Holmes,PERSON
+490,Holmes,PERSON
+491,the night,TIME
+492,CHAPTER VI,LAW
+493,TOBIAS,ORG
+494,next day,DATE
+495,the “,ORG
+496,Brixton Mystery,WORK_OF_ART
+497,Daily Telegraph,PERSON
+498,German,NORP
+499,Socialists,NORP
+500,America,GPE
+501,Vehmgericht,PERSON
+502,Carbonari,PERSON
+503,the Marchioness de Brinvilliers,ORG
+504,Darwinian,NORP
+505,Malthus,PERSON
+506,the Ratcliff Highway,FAC
+507,Government,ORG
+508,England,GPE
+509,Standard,PERSON
+510,Liberal Administration,ORG
+511,American,NORP
+512,some weeks,DATE
+513,Metropolis,GPE
+514,Torquay Terrace,ORG
+515,Camberwell,PERSON
+516,Joseph Stangerson,PERSON
+517,two,CARDINAL
+518,Tuesday,DATE
+519,4th,ORDINAL
+520,Euston,PERSON
+521,Liverpool,ORG
+522,Drebber,PERSON
+523,the Brixton Road,FAC
+524,Euston,PERSON
+525,Stangerson,GPE
+526,Lestrade,PERSON
+527,Gregson,PERSON
+528,Scotland Yard,ORG
+529,Daily News,WORK_OF_ART
+530,Liberalism,NORP
+531,the Continental Governments,ORG
+532,Stangerson,PERSON
+533,Gregson,PERSON
+534,Scotland Yard,ORG
+535,Sherlock Holmes,PERSON
+536,Lestrade,PERSON
+537,Gregson,ORG
+538,un,ORG
+539,It’s the Baker Street,WORK_OF_ART
+540,the room half a dozen,DATE
+541,Arabs,NORP
+542,Holmes,PERSON
+543,six,CARDINAL
+544,Wiggins,ORG
+545,Wiggins,PERSON
+546,one,CARDINAL
+547,13,CARDINAL
+548,next moment,TIME
+549,one,CARDINAL
+550,a dozen,CARDINAL
+551,Holmes,PERSON
+552,Brixton,PERSON
+553,Gregson,ORG
+554,a few seconds,TIME
+555,three,CARDINAL
+556,Holmes,PERSON
+557,Arthur Charpentier,WORK_OF_ART
+558,Gregson,ORG
+559,Sherlock Holmes,PERSON
+560,one,CARDINAL
+561,the last day,DATE
+562,two,CARDINAL
+563,Sherlock Holmes,PERSON
+564,Holmes,PERSON
+565,Lestrade,PERSON
+566,Stangerson,PERSON
+567,Gregson,ORG
+568,Watson,PERSON
+569,first,ORDINAL
+570,American,NORP
+571,Tobias Gregson’s,PERSON
+572,Holmes,PERSON
+573,John Underwood,PERSON
+574,Sons,ORG
+575,129,CARDINAL
+576,Camberwell Road,ORG
+577,Gregson,ORG
+578,Gregson,ORG
+579,Holmes,PERSON
+580,Underwood,GPE
+581,Drebber,PERSON
+582,Charpentier’s Boarding Establishment,ORG
+583,Torquay Terrace,PERSON
+584,Smart,WORK_OF_ART
+585,Sherlock Holmes,WORK_OF_ART
+586,Sherlock Holmes,PERSON
+587,Enoch J. Drebber,PERSON
+588,Cleveland,GPE
+589,Drebber,PERSON
+590,eight o’clock,TIME
+591,Stangerson,PERSON
+592,two,CARDINAL
+593,one,CARDINAL
+594,9.15 and one,CARDINAL
+595,11,DATE
+596,first,ORDINAL
+597,14,CARDINAL
+598,some seconds,TIME
+599,Drebber,PERSON
+600,“‘Arthur,WORK_OF_ART
+601,Half,CARDINAL
+602,Alice,PERSON
+603,“‘Perhaps,WORK_OF_ART
+604,Alice,PERSON
+605,"I.
+“",PERSON
+606,Drebber,PERSON
+607,nearly three weeks,DATE
+608,Stangerson,PERSON
+609,Copenhagen,ORG
+610,Stangerson,PERSON
+611,The very night,TIME
+612,twelve o’clock in the day,TIME
+613,Alice,PERSON
+614,one,CARDINAL
+615,Charpentier,PERSON
+616,the very day,DATE
+617,fourteen pounds,QUANTITY
+618,Navy,ORG
+619,less than an hour,TIME
+620,Drebber,PERSON
+621,Alice,PERSON
+622,Alice,PERSON
+623,Arthur,PERSON
+624,Arthur,PERSON
+625,The next morning,TIME
+626,Drebber,PERSON
+627,Charpentier,PERSON
+628,Sherlock Holmes,PERSON
+629,Charpentier,PERSON
+630,“‘About eleven,WORK_OF_ART
+631,at least two hours,TIME
+632,“‘Possibly,WORK_OF_ART
+633,four,CARDINAL
+634,five,CARDINAL
+635,Charpentier,PERSON
+636,two,CARDINAL
+637,Drebber,PERSON
+638,Holmes,PERSON
+639,Drebber,PERSON
+640,Drebber,PERSON
+641,the Brixton Road,FAC
+642,Drebber,PERSON
+643,The night,TIME
+644,Charpentier,PERSON
+645,Holmes,PERSON
+646,Gregson,ORG
+647,Drebber,PERSON
+648,Lestrade,PERSON
+649,15,CARDINAL
+650,Jove,PERSON
+651,Lestrade,PERSON
+652,Sherlock Holmes,PERSON
+653,Lestrade,PERSON
+654,Gregson,ORG
+655,Joseph Stangerson,PERSON
+656,Joseph Stangerson,PERSON
+657,Lestrade,PERSON
+658,Halliday’s Private Hotel,FAC
+659,about six o’clock this morning,TIME
+660,CHAPTER VII,LAW
+661,DARKNESS,ORG
+662,Lestrade,PERSON
+663,three,CARDINAL
+664,Sherlock Holmes,FAC
+665,Lestrade,PERSON
+666,Gregson,ORG
+667,Lestrade,PERSON
+668,first,ORDINAL
+669,Gregson,ORG
+670,Holmes,PERSON
+671,Lestrade,PERSON
+672,Stangerson,PERSON
+673,Drebber,PERSON
+674,one,CARDINAL
+675,Euston Station,FAC
+676,about half-past eight,TIME
+677,third,ORDINAL
+678,two in the morning,TIME
+679,Drebber,PERSON
+680,the Brixton Road,FAC
+681,Stangerson,PERSON
+682,between 8.30,CARDINAL
+683,Liverpool,GPE
+684,American,NORP
+685,Euston,PERSON
+686,Drebber,PERSON
+687,the night,TIME
+688,next morning,TIME
+689,Holmes,PERSON
+690,yesterday,DATE
+691,evening,TIME
+692,This morning,TIME
+693,eight o’clock,TIME
+694,Little George Street,FAC
+695,Stangerson,PERSON
+696,two days,DATE
+697,nine,CARDINAL
+698,second,ORDINAL
+699,Boots,ORG
+700,twenty years,DATE
+701,Boots,ORG
+702,Joseph Stangerson,PERSON
+703,Sherlock Holmes,PERSON
+704,RACHE,ORG
+705,Lestrade,PERSON
+706,Lestrade,PERSON
+707,one,CARDINAL
+708,second,ORDINAL
+709,Holmes,GPE
+710,Drebber,PERSON
+711,eighty odd pounds,QUANTITY
+712,one,CARDINAL
+713,Cleveland,GPE
+714,about a month ago,DATE
+715,J. H.,PERSON
+716,Europe,LOC
+717,Holmes,PERSON
+718,Sherlock Holmes sprang from his chair,WORK_OF_ART
+719,two,CARDINAL
+720,Drebber,PERSON
+721,Stangerson,GPE
+722,Lestrade,PERSON
+723,the Police Station,ORG
+724,Holmes,PERSON
+725,Holmes,PERSON
+726,yesterday,DATE
+727,one,CARDINAL
+728,two,CARDINAL
+729,Holmes,PERSON
+730,One half,CARDINAL
+731,Lestrade,PERSON
+732,Joseph Stangerson,PERSON
+733,Patience,WORK_OF_ART
+734,Sherlock Holmes,PERSON
+735,16,CARDINAL
+736,Holmes,PERSON
+737,as minute,TIME
+738,two,CARDINAL
+739,Drebber,PERSON
+740,Stangerson,GPE
+741,two,CARDINAL
+742,Sherlock Holmes,PERSON
+743,two,CARDINAL
+744,Holmes,PERSON
+745,Gregson,PERSON
+746,Sherlock Holmes,PERSON
+747,Young Charpentier,PERSON
+748,second,ORDINAL
+749,Lestrade,PERSON
+750,Stangerson,PERSON
+751,Gregson,ORG
+752,Lestrade,PERSON
+753,Holmes,PERSON
+754,four million,CARDINAL
+755,Gregson,ORG
+756,Lestrade,PERSON
+757,Arabs,NORP
+758,Wiggins,PERSON
+759,Holmes,PERSON
+760,Scotland Yard,ORG
+761,Lestrade,PERSON
+762,Holmes,PERSON
+763,Wiggins,PERSON
+764,Sherlock Holmes,PERSON
+765,Jefferson Hope,PERSON
+766,Enoch Drebber,PRODUCT
+767,Joseph Stangerson,PERSON
+768,Holmes,PERSON
+769,second,ORDINAL
+770,two,CARDINAL
+771,Holmes,PERSON
+772,Gregson,GPE
+773,Lestrade,PERSON
+774,Holmes,PERSON
+775,four,CARDINAL
+776,Lestrade,PERSON
+777,half,CARDINAL
+778,Sherlock Holmes,PERSON
+779,Scotland Yard,ORG
+780,The Country of the Saints,ORG
+781,CHAPTER I.,ORG
+782,North American,NORP
+783,many a long year,DATE
+784,the Sierra Nevada,ORG
+785,Nebraska,GPE
+786,the Yellowstone River,LOC
+787,Colorado,GPE
+788,one,CARDINAL
+789,winter,DATE
+790,summer,DATE
+791,Pawnees,PERSON
+792,Blackfeet,GPE
+793,the Sierra Blanco,ORG
+794,grey earth,ORG
+795,the Sierra Blanco,ORG
+796,fifteen hundred miles one,QUANTITY
+797,fourth,ORDINAL
+798,eighteen hundred and forty-seven,CARDINAL
+799,sixty,CARDINAL
+800,North,PERSON
+801,twenty years,DATE
+802,two,CARDINAL
+803,about five years of age,DATE
+804,Kiss it and make,WORK_OF_ART
+805,19,CARDINAL
+806,Mother’s,WORK_OF_ART
+807,Auntie’s,ORG
+808,three days,DATE
+809,two,CARDINAL
+810,Bob,PERSON
+811,Bender,PERSON
+812,Indian,NORP
+813,Pete,PERSON
+814,McGregor,PERSON
+815,Johnny Hones,PERSON
+816,Bob,PERSON
+817,first,ORDINAL
+818,three,CARDINAL
+819,three,CARDINAL
+820,two,CARDINAL
+821,Cocks,PRODUCT
+822,Illinois,GPE
+823,Missouri,GPE
+824,two,CARDINAL
+825,two,CARDINAL
+826,three days,DATE
+827,three nights,DATE
+828,another half hour,TIME
+829,first,ORDINAL
+830,two,CARDINAL
+831,West,LOC
+832,two,CARDINAL
+833,the Sierra Blanco,ORG
+834,the Rio Grande,ORG
+835,third,ORDINAL
+836,one,CARDINAL
+837,Injuns,ORG
+838,Pawnees,PERSON
+839,Stangerson,PERSON
+840,one,CARDINAL
+841,dozen,CARDINAL
+842,Elder,PERSON
+843,first,ORDINAL
+844,three,CARDINAL
+845,two,CARDINAL
+846,20,CARDINAL
+847,two,CARDINAL
+848,One,CARDINAL
+849,two,CARDINAL
+850,John Ferrier,PERSON
+851,un,ORG
+852,twenty-one,CARDINAL
+853,Lucy Ferrier,PERSON
+854,this day,DATE
+855,Nigh,ORG
+856,ten thousand,CARDINAL
+857,one,CARDINAL
+858,the Angel Merona,FAC
+859,Egyptian,NORP
+860,Joseph Smith,PERSON
+861,Nauvoo,ORG
+862,the State of Illinois,GPE
+863,Nauvoo,ORG
+864,John Ferrier,PERSON
+865,Mormons,PERSON
+866,Mormons,PERSON
+867,one,CARDINAL
+868,one,CARDINAL
+869,Mormons,PERSON
+870,Six,CARDINAL
+871,two,CARDINAL
+872,four,CARDINAL
+873,more than thirty years of age,DATE
+874,two,CARDINAL
+875,Ferrier,ORG
+876,Elders,PERSON
+877,Stangerson,PERSON
+878,Mormons,PERSON
+879,two,CARDINAL
+880,a few days,DATE
+881,Brigham Young,PERSON
+882,Joseph Smith,PERSON
+883,CHAPTER II,LAW
+884,Mormons,PERSON
+885,Mississippi,LOC
+886,the Rocky Mountains,LOC
+887,Anglo,NORP
+888,Utah,GPE
+889,these virgin acres,QUANTITY
+890,Young,PERSON
+891,the next summer,DATE
+892,first,ORDINAL
+893,two,CARDINAL
+894,John Ferrier,PERSON
+895,Mormons,PERSON
+896,Lucy Ferrier,PERSON
+897,Stangerson,PERSON
+898,Mormon,ORG
+899,three,CARDINAL
+900,twelve,CARDINAL
+901,Ferrier,ORG
+902,Young,PERSON
+903,Stangerson,GPE
+904,Kemball,GPE
+905,Johnston,GPE
+906,Drebber,PERSON
+907,four,CARDINAL
+908,John Ferrier,PERSON
+909,years,DATE
+910,morning,TIME
+911,evening,TIME
+912,three years,DATE
+913,six,CARDINAL
+914,nine,CARDINAL
+915,twelve,CARDINAL
+916,half a dozen,CARDINAL
+917,Salt Lake City,GPE
+918,Wahsatch Mountains,LOC
+919,John Ferrier,PERSON
+920,one,CARDINAL
+921,only one,CARDINAL
+922,Atlantic,LOC
+923,Ferrier,ORG
+924,Lucy Ferrier,PERSON
+925,As year,DATE
+926,Ferrier,ORG
+927,West,LOC
+928,the year,DATE
+929,American,NORP
+930,Pacific,LOC
+931,first,ORDINAL
+932,that day,DATE
+933,one,CARDINAL
+934,Lucy Ferrier,PERSON
+935,June,DATE
+936,the Latter Day Saints,ORG
+937,California,GPE
+938,the Overland Route,FAC
+939,the City of the Elect,GPE
+940,Lucy Ferrier,PERSON
+941,Indians,NORP
+942,a half-dozen,CARDINAL
+943,one,CARDINAL
+944,Poncho,NORP
+945,John Ferrier,PERSON
+946,St. Louis,GPE
+947,Ferrier,ORG
+948,two months,DATE
+949,Lucy Ferrier,PERSON
+950,Jefferson Hope,PERSON
+951,Nevada Mountains,LOC
+952,Salt Lake City,GPE
+953,Sierra,ORG
+954,John Ferrier,PERSON
+955,John,PERSON
+956,the last twelve years,DATE
+957,Lucy,PERSON
+958,California,GPE
+959,halcyon days,DATE
+960,Jefferson Hope,PERSON
+961,Lucy,PERSON
+962,summer,DATE
+963,Lucy,PERSON
+964,two,CARDINAL
+965,A couple of months,DATE
+966,two months,DATE
+967,one,CARDINAL
+968,Utah,GPE
+969,THREE weeks,DATE
+970,Jefferson Hope,PERSON
+971,Salt Lake City,GPE
+972,John Ferrier’s,PERSON
+973,Mormon,ORG
+974,Mormon,ORG
+975,one,CARDINAL
+976,those days,DATE
+977,Saints,FAC
+978,the Inquisition of Seville,ORG
+979,German,NORP
+980,the Secret Societies of Italy,ORG
+981,the State of Utah,GPE
+982,Church,ORG
+983,first,ORDINAL
+984,Mormon,ORG
+985,Indians,NORP
+986,Elders,ORG
+987,this day,DATE
+988,West,LOC
+989,the Avenging Angels,ORG
+990,Fuller,ORG
+991,Prophet,PERSON
+992,night,TIME
+993,One fine morning,TIME
+994,John Ferrier,PERSON
+995,Brigham Young,PERSON
+996,Mormon,ORG
+997,Ferrier,PERSON
+998,the Chosen Valley,LOC
+999,John Ferrier,PERSON
+1000,one,CARDINAL
+1001,Ferrier,ORG
+1002,the Temple?,FAC
+1003,Young,PERSON
+1004,Mormons,PERSON
+1005,Utah,GPE
+1006,John Ferrier,PERSON
+1007,Gentile,PERSON
+1008,thirteenth,ORDINAL
+1009,Joseph Smith,PERSON
+1010,John Ferrier,PERSON
+1011,one,CARDINAL
+1012,the Sacred Council of Four,ORG
+1013,29,CARDINAL
+1014,Drebber,PERSON
+1015,Ferrier,ORG
+1016,Young,PERSON
+1017,John Ferrier,PERSON
+1018,the Sierra Blanco,ORG
+1019,Ferrier,ORG
+1020,One,CARDINAL
+1021,Christian,NORP
+1022,Nevada,GPE
+1023,Lucy,PERSON
+1024,One,CARDINAL
+1025,a clear month,DATE
+1026,Utah,GPE
+1027,Leave Utah,WORK_OF_ART
+1028,Lucy,PERSON
+1029,first,ORDINAL
+1030,American,NORP
+1031,Wait till Jefferson comes,WORK_OF_ART
+1032,John Ferrier,PERSON
+1033,the morning,TIME
+1034,John Ferrier,PERSON
+1035,Salt Lake City,GPE
+1036,the Nevada Mountains,LOC
+1037,Jefferson Hope,PERSON
+1038,two,CARDINAL
+1039,One,CARDINAL
+1040,Ferrier,ORG
+1041,Drebber,PERSON
+1042,Joseph Stangerson,PERSON
+1043,John Ferrier,PERSON
+1044,Stangerson,PERSON
+1045,four,CARDINAL
+1046,Drebber,PERSON
+1047,seven,CARDINAL
+1048,Stangerson,PERSON
+1049,Church,ORG
+1050,Drebber,PERSON
+1051,John Ferrier,PERSON
+1052,two,CARDINAL
+1053,two,CARDINAL
+1054,Mormons,PERSON
+1055,two,CARDINAL
+1056,Ferrier,ORG
+1057,Prophet,PERSON
+1058,the Council of Four,ORG
+1059,the end of your days,DATE
+1060,Drebber,PERSON
+1061,Ferrier,PERSON
+1062,Lucy,PERSON
+1063,Jefferson,PERSON
+1064,Elders,ORG
+1065,Church,ORG
+1066,Young,GPE
+1067,next morning,TIME
+1068,Twenty-nine days,DATE
+1069,John Ferrier,PERSON
+1070,twenty-nine days,DATE
+1071,the month,DATE
+1072,Young,PERSON
+1073,next morning,TIME
+1074,Lucy,PERSON
+1075,28,CARDINAL
+1076,That night,TIME
+1077,27,CARDINAL
+1078,many days,DATE
+1079,the month,DATE
+1080,the garden gate,FAC
+1081,John Ferrier,PERSON
+1082,one,CARDINAL
+1083,Nevada,GPE
+1084,Twenty,CARDINAL
+1085,fifteen and fifteen to ten,CARDINAL
+1086,One,CARDINAL
+1087,five,CARDINAL
+1088,four,CARDINAL
+1089,three,CARDINAL
+1090,Council,ORG
+1091,That morning,TIME
+1092,2,CARDINAL
+1093,the next day,DATE
+1094,the night,TIME
+1095,midnight,TIME
+1096,the last day,DATE
+1097,John Ferrier,PERSON
+1098,The night,TIME
+1099,Ferrier,ORG
+1100,first,ORDINAL
+1101,Jefferson Hope,PERSON
+1102,John Ferrier,PERSON
+1103,eight-and-forty hours,DATE
+1104,21,CARDINAL
+1105,Lucy,PERSON
+1106,Washoe,ORG
+1107,John Ferrier,PERSON
+1108,Lucy,PERSON
+1109,one,CARDINAL
+1110,Hope,PERSON
+1111,Utah,GPE
+1112,last day,DATE
+1113,two,CARDINAL
+1114,the Eagle Ravine,ORG
+1115,Two thousand dollars,MONEY
+1116,five,CARDINAL
+1117,Carson City,GPE
+1118,Lucy,PERSON
+1119,Ferrier,PERSON
+1120,Jefferson Hope,PERSON
+1121,minutes,TIME
+1122,Jefferson Hope,PERSON
+1123,only two miles,QUANTITY
+1124,Ravine,PERSON
+1125,half,CARDINAL
+1126,Ferrier,ORG
+1127,two,CARDINAL
+1128,three,CARDINAL
+1129,Ferrier,ORG
+1130,Jefferson Hope,PERSON
+1131,Lucy,PERSON
+1132,two,CARDINAL
+1133,Jefferson Hope,PERSON
+1134,a few yards,QUANTITY
+1135,second,ORDINAL
+1136,midnight,TIME
+1137,first,ORDINAL
+1138,three,CARDINAL
+1139,Drebber,PERSON
+1140,Nine to seven,CARDINAL
+1141,Seven to five,CARDINAL
+1142,two,CARDINAL
+1143,Jefferson Hope,PERSON
+1144,half,CARDINAL
+1145,Two,CARDINAL
+1146,Jefferson Hope,PERSON
+1147,Ferrier,ORG
+1148,Jefferson Hope,PERSON
+1149,a thousand feet,QUANTITY
+1150,two,CARDINAL
+1151,Indian,NORP
+1152,Saints,FAC
+1153,rang,PERSON
+1154,Travellers for Nevada,WORK_OF_ART
+1155,Jefferson Hope,PERSON
+1156,The Holy Four,WORK_OF_ART
+1157,Mormon,ORG
+1158,Nine,CARDINAL
+1159,seven,CARDINAL
+1160,Seven,CARDINAL
+1161,five,CARDINAL
+1162,Jefferson Hope,PERSON
+1163,Hope,PERSON
+1164,morning,TIME
+1165,gallop,ORG
+1166,three,CARDINAL
+1167,Lucy,PERSON
+1168,Jefferson Hope,PERSON
+1169,Carson,PERSON
+1170,that day,DATE
+1171,evening,TIME
+1172,more than thirty miles,QUANTITY
+1173,a few hours,TIME
+1174,Jefferson Hope,PERSON
+1175,second,ORDINAL
+1176,nearly five thousand feet,QUANTITY
+1177,Lucy,PERSON
+1178,three,CARDINAL
+1179,a couple of miles,QUANTITY
+1180,one,CARDINAL
+1181,two or three hours,TIME
+1182,three,CARDINAL
+1183,four hundred feet,QUANTITY
+1184,one,CARDINAL
+1185,the evening,TIME
+1186,one,CARDINAL
+1187,a mile,QUANTITY
+1188,Lucy,PERSON
+1189,nearly five hours,TIME
+1190,Bewildered,PERSON
+1191,Jefferson Hope,PERSON
+1192,half,CARDINAL
+1193,Salt Lake City,GPE
+1194,Jefferson Hope,PERSON
+1195,SALT LAKE CITY,GPE
+1196,22,CARDINAL
+1197,"August 4th, 1860",DATE
+1198,Jefferson Hope,PERSON
+1199,second,ORDINAL
+1200,Lucy,PERSON
+1201,Jefferson Hope,PERSON
+1202,Indians,NORP
+1203,only one,CARDINAL
+1204,one,CARDINAL
+1205,a few days,DATE
+1206,five days,DATE
+1207,night,TIME
+1208,a few hours,TIME
+1209,the sixth day,DATE
+1210,Mormon,ORG
+1211,Cowper,PERSON
+1212,Lucy Ferrier’s,PERSON
+1213,Jefferson Hope,PERSON
+1214,Mormon,ORG
+1215,Ferriers,PRODUCT
+1216,Cowper,PERSON
+1217,Mormon,ORG
+1218,Lucy Ferrier,PERSON
+1219,yesterday,DATE
+1220,Drebber,PERSON
+1221,Married yesterday,WORK_OF_ART
+1222,the Endowment House,ORG
+1223,Drebber,PERSON
+1224,Stangerson,PERSON
+1225,Stangerson,PERSON
+1226,Drebber,PERSON
+1227,Prophet,PERSON
+1228,yesterday,DATE
+1229,Jefferson Hope,PERSON
+1230,Mormon,ORG
+1231,Lucy,PERSON
+1232,a month,DATE
+1233,John Ferrier’s,PERSON
+1234,Mormon,ORG
+1235,the early hours of the morning,TIME
+1236,Lucy Ferrier,PERSON
+1237,some months,DATE
+1238,Jefferson Hope,PERSON
+1239,Stangerson,GPE
+1240,Drebber,PERSON
+1241,two,CARDINAL
+1242,Mormons,PERSON
+1243,Nevada,GPE
+1244,a year,DATE
+1245,nearly five,CARDINAL
+1246,John Ferrier’s,PERSON
+1247,Salt Lake City,GPE
+1248,the Chosen People,ORG
+1249,a few months,DATE
+1250,Church,ORG
+1251,Elders,PERSON
+1252,Utah,GPE
+1253,Gentiles,PERSON
+1254,Drebber,PERSON
+1255,Stangerson,PERSON
+1256,Rumour,ORG
+1257,Drebber,PERSON
+1258,Stangerson,PERSON
+1259,Jefferson Hope,PERSON
+1260,the United States,GPE
+1261,one,CARDINAL
+1262,Cleveland,GPE
+1263,Ohio,GPE
+1264,Drebber,PERSON
+1265,Stangerson,PERSON
+1266,Jefferson Hope,PERSON
+1267,some weeks,DATE
+1268,Drebber,PERSON
+1269,Europe,LOC
+1270,Europe,LOC
+1271,St. Petersburg,GPE
+1272,Paris,GPE
+1273,Copenhagen,ORG
+1274,Danish,NORP
+1275,a few days late,DATE
+1276,London,GPE
+1277,Watson,PERSON
+1278,JOHN WATSON,PERSON
+1279,"M.D.
+ ",PERSON
+1280,Sherlock Holmes,PERSON
+1281,Gregson,ORG
+1282,Lestrade,PERSON
+1283,one,CARDINAL
+1284,Holmes,PERSON
+1285,23,CARDINAL
+1286,Holmes,PERSON
+1287,two,CARDINAL
+1288,Lestrade,PERSON
+1289,Gregson,ORG
+1290,Lestrade,PERSON
+1291,the week,DATE
+1292,Jefferson Hope,PERSON
+1293,thrill,GPE
+1294,last week,DATE
+1295,years,DATE
+1296,Salt Lake Mountains,GPE
+1297,The Inspector,WORK_OF_ART
+1298,two,CARDINAL
+1299,24,CARDINAL
+1300,half an hour ago,TIME
+1301,Jefferson Hope,PERSON
+1302,Lestrade,PERSON
+1303,two,CARDINAL
+1304,twenty years ago,DATE
+1305,Drebber,PERSON
+1306,two,CARDINAL
+1307,London,GPE
+1308,a week,DATE
+1309,two,CARDINAL
+1310,Camberwell,ORG
+1311,London,GPE
+1312,only early in,DATE
+1313,late at night,TIME
+1314,two weeks,DATE
+1315,every day,DATE
+1316,Drebber,PERSON
+1317,half,CARDINAL
+1318,Stangerson,PERSON
+1319,that the hour,TIME
+1320,one evening,TIME
+1321,Torquay Terrace,PERSON
+1322,Drebber,PERSON
+1323,Stangerson,PERSON
+1324,Liverpool,GPE
+1325,some hours,TIME
+1326,Drebber,PERSON
+1327,Drebber,PERSON
+1328,Drebber,PERSON
+1329,Stangerson,PERSON
+1330,Halliday’s Private Hotel,FAC
+1331,Drebber,PERSON
+1332,eleven,CARDINAL
+1333,some days,DATE
+1334,the Brixton Road,FAC
+1335,one,CARDINAL
+1336,at least one,CARDINAL
+1337,Drebber,PERSON
+1338,one,CARDINAL
+1339,two,CARDINAL
+1340,nearly half-an-hour,CARDINAL
+1341,Waterloo Bridge,PERSON
+1342,Terrace,ORG
+1343,a hundred yards,QUANTITY
+1344,a quarter of an hour,DATE
+1345,two,CARDINAL
+1346,Drebber,PERSON
+1347,Drebber,PERSON
+1348,half,CARDINAL
+1349,Drebber,PERSON
+1350,America,GPE
+1351,York College,ORG
+1352,One,CARDINAL
+1353,25,CARDINAL
+1354,South American,NORP
+1355,one,CARDINAL
+1356,that day,DATE
+1357,one than twelve,CARDINAL
+1358,twenty long years,DATE
+1359,John Ferrier,PERSON
+1360,Lucy,PERSON
+1361,one,CARDINAL
+1362,the Brixton Road,FAC
+1363,Drebber,PERSON
+1364,Enoch Drebber,PERSON
+1365,Salt Lake City,GPE
+1366,St. Petersburg,GPE
+1367,Lucy Ferrier,PERSON
+1368,a minute,TIME
+1369,first,ORDINAL
+1370,Lucy,PERSON
+1371,German,NORP
+1372,New York,GPE
+1373,RACHE,ORG
+1374,New Yorkers,NORP
+1375,Londoners,ORG
+1376,Lucy,PERSON
+1377,Drebber,PERSON
+1378,Enoch Drebber,PERSON
+1379,Stangerson,PERSON
+1380,John Ferrier’s,PERSON
+1381,Halliday’s Private Hotel,FAC
+1382,about all day,DATE
+1383,26,CARDINAL
+1384,Drebber,PERSON
+1385,Stangerson,PERSON
+1386,early next morning,TIME
+1387,the hour,TIME
+1388,Drebber,PERSON
+1389,Providence,PERSON
+1390,America,GPE
+1391,Jefferson Hope,PERSON
+1392,221B,CARDINAL
+1393,27,CARDINAL
+1394,blasé,PERSON
+1395,some minutes,TIME
+1396,Lestrade,PERSON
+1397,only one,CARDINAL
+1398,Sherlock Holmes,PERSON
+1399,Holmes heartily,PERSON
+1400,Thursday,DATE
+1401,Jefferson Hope,PERSON
+1402,Baker Street,FAC
+1403,CHAPTER VII,LAW
+1404,CONCLUSION,ORG
+1405,Thursday,DATE
+1406,Thursday,DATE
+1407,Jefferson Hope,PERSON
+1408,the very night,TIME
+1409,Gregson,PERSON
+1410,Lestrade,PERSON
+1411,Holmes,PERSON
+1412,next evening,TIME
+1413,Sherlock Holmes,PERSON
+1414,three days,DATE
+1415,"I.
+“",PERSON
+1416,every-day,DATE
+1417,fifty,CARDINAL
+1418,"I.
+“",PERSON
+1419,the night,TIME
+1420,London,GPE
+1421,first,ORDINAL
+1422,second,ORDINAL
+1423,two,CARDINAL
+1424,first,ORDINAL
+1425,second,ORDINAL
+1426,two,CARDINAL
+1427,one,CARDINAL
+1428,Dolsky,ORG
+1429,Odessa,GPE
+1430,Leturier in Montpellier,ORG
+1431,first,ORDINAL
+1432,Gregson,ORG
+1433,Cleveland,GPE
+1434,Drebber,PERSON
+1435,Trichinopoly,ORG
+1436,Gregson,ORG
+1437,Cleveland,GPE
+1438,Enoch Drebber,WORK_OF_ART
+1439,Drebber,PERSON
+1440,Jefferson Hope,PERSON
+1441,Hope,PERSON
+1442,Europe,LOC
+1443,Drebber,PERSON
+1444,third,ORDINAL
+1445,one,CARDINAL
+1446,London,GPE
+1447,Jefferson Hope,PERSON
+1448,Metropolis,GPE
+1449,London,GPE
+1450,Stangerson,GPE
+1451,Echo,PERSON
+1452,the day,DATE
+1453,Hope,PERSON
+1454,Enoch Drebber,PERSON
+1455,Joseph Stangerson,PERSON
+1456,Mormonism,NORP
+1457,their younger days,DATE
+1458,the Latter Day Saints,ORG
+1459,Hope,ORG
+1460,Salt Lake City,GPE
+1461,British,NORP
+1462,Scotland Yard,ORG
+1463,Lestrade,PERSON
+1464,Gregson,ORG
+1465,Sherlock Holmes,PERSON
+1466,two,CARDINAL
+1467,Didn’t,WORK_OF_ART
+1468,Sherlock Holmes,PERSON
+1469,the Roman miser--,ORG
+1470,simul,GPE

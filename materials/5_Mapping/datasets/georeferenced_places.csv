@@ -1,0 +1,57 @@
+"","text","n","adminCode1","lng","geonameId","toponymName","countryId","fcl","population","countryCode","name","fclName","countryName","fcodeName","adminName1","lat","fcode","adminCodes1.ISO3166_2"
+"1","Afghanistan",7,"00","66","1149361","Islamic Republic of Afghanistan","1149361","A","37172386","AF","Afghanistan","country, state, region,...","Afghanistan","independent political entity","","33","PCLI",NA
+"2","Amati",1,"32","22.91951","686376","Amați","798549","P","896","RO","Amați","city, village,...","Romania","populated place","Satu Mare County","47.74314","PPL","SM"
+"3","America",3,NA,"-57.65625","6255150","South America",NA,"L","385742554",NA,"South America","parks,area, ...",NA,"continent","","-14.60485","CONT",NA
+"4","Blackfeet",1,"MT","-113.00508","5640799","Blackfeet Nation Historical Marker","6252001","L","0","US","Blackfeet Nation Historical Marker","parks,area, ...","United States","park","Montana","48.54136","PRK","MT"
+"5","Bombay",1,"16","72.88261","1275339","Mumbai","1269750","P","12691836","IN","Mumbai","city, village,...","India","seat of a first-order administrative division","Maharashtra","19.07283","PPLA","MH"
+"6","Bradford",1,"ENG","-1.75206","2654993","Bradford","2635167","P","366187","GB","Bradford","city, village,...","United Kingdom","seat of a second-order administrative division","England","53.79391","PPLA2","ENG"
+"7","California",2,"CA","-116.78467","11071615","Southern California","6252001","L","2.2e+07","US","Southern California","parks,area, ...","United States","region","California","34.68743","RGN","CA"
+"8","Carson City",1,"NV","-119.7674","5501344","Carson City","6252001","P","54521","US","Carson City","city, village,...","United States","seat of a first-order administrative division","Nevada","39.1638","PPLA","NV"
+"9","Cleveland",9,"OH","-81.69541","5150529","Cleveland","6252001","P","388072","US","Cleveland","city, village,...","United States","seat of a second-order administrative division","Ohio","41.4995","PPLA2","OH"
+"10","Colorado",1,"CO","-105.50083","5417618","Colorado","6252001","A","4678630","US","Colorado","country, state, region,...","United States","first-order administrative division","Colorado","39.00027","ADM1","CO"
+"11","Duncan Street",2,"02","151.18637","8663212","Duncan Street","2077456","R","0","AU","Duncan Street","road, railroad ","Australia","street","New South Wales","-33.85771","ST","NSW"
+"12","England",3,NA,"-71","11919979","New England","6252001","L","1.5e+07","US","New England","parks,area, ...","United States","region","","44","RGN",NA
+"13","Frankfort",1,"KY","-84.87328","4292188","Frankfort","6252001","P","27830","US","Frankfort","city, village,...","United States","seat of a first-order administrative division","Kentucky","38.20091","PPLA","KY"
+"14","Gregson",1,"02","151.7346","8154658","Gregson Park","2077456","L","0","AU","Gregson Park","parks,area, ...","Australia","park","New South Wales","-32.9152","PRK","NSW"
+"15","Halle",1,"14","11.97947","2911522","Halle (Saale)","2921044","P","237865","DE","Halle","city, village,...","Germany","populated place","Saxony-Anhalt","51.48158","PPL","ST"
+"16","Holborn",1,"ENG","-0.12045","2646781","Holborn","2635167","P","13023","GB","Holborn","city, village,...","United Kingdom","populated place","England","51.51753","PPL","ENG"
+"17","Holland Grove",1,"00","103.78028","1880652","Holland Grove Park","1880251","P","0","SG","Holland Grove Park","city, village,...","Singapore","section of populated place","","1.31361","PPLX",NA
+"18","Holmes",1,"10","-76.78271","5976273","Holmes","6251999","L","0","CA","Holmes","parks,area, ...","Canada","area","Quebec","48.93348","AREA","QC"
+"19","Illinois",1,"IL","-89.25037","4896861","Illinois","6252001","A","12772888","US","Illinois","country, state, region,...","United States","first-order administrative division","Illinois","40.00032","ADM1","IL"
+"20","India",1,"00","79","1269750","Republic of India","1269750","A","1352617328","IN","India","country, state, region,...","India","independent political entity","","22","PCLI",NA
+"21","Johnston",1,"04","-65.83215","5987499","Johnston","6251999","L","0","CA","Johnston","parks,area, ...","Canada","area","New Brunswick","45.83345","AREA","NB"
+"22","Kemball",1,"02","-117.1189","6081388","Mount Kemball","6251999","T","0","CA","Mount Kemball","mountain,hill,rock,... ","Canada","mountain","British Columbia","49.81657","MT","BC"
+"23","Liverpool",3,"ENG","-2.97794","2644210","Liverpool","2635167","P","864122","GB","Liverpool","city, village,...","United Kingdom","seat of a second-order administrative division","England","53.41058","PPLA2","ENG"
+"24","London",13,"ENG","-0.12574","2643743","London","2635167","P","8961989","GB","London","city, village,...","United Kingdom","capital of a political entity","England","51.50853","PPLC","ENG"
+"25","M.D.",1,"06","44.95782","6788260","D M Ḩasan","99237","L","0","IQ","D M Ḩasan","parks,area, ...","Iraq","locality","Bābil","32.32391","LCTY","BB"
+"26","Maiwand",2,"23","64.99332","7053304","Maywand","1149361","A","0","AF","Maywand District","country, state, region,...","Afghanistan","second-order administrative division","Kandahar","31.58363","ADM2","KAN"
+"27","Mendelssohn",1,"PA","-79.89283","5200783","Mendelssohn","6252001","P","0","US","Mendelssohn","city, village,...","United States","populated place","Pennsylvania","40.30424","PPL","PA"
+"28","Metropolis",2,"83","19.13818","11748058","Silesian Metropolis","798544","L","1500000","PL","Silesian Metropolis","parks,area, ...","Poland","region","Silesia","50.25423","RGN","24"
+"29","Missouri",1,"MO","-92.50046","4398678","Missouri","6252001","A","5768151","US","Missouri","country, state, region,...","United States","first-order administrative division","Missouri","38.25031","ADM1","MO"
+"30","Nebraska",1,"NE","-99.75067","5073708","Nebraska","6252001","A","1757399","US","Nebraska","country, state, region,...","United States","first-order administrative division","Nebraska","41.50028","ADM1","NE"
+"31","Netley",1,"03","-96.95784","6087219","Netley","6251999","L","0","CA","Netley","parks,area, ...","Canada","area","Manitoba","50.35831","AREA","MB"
+"32","Nevada",3,"NV","-116.75119","5509151","Nevada","6252001","A","2399532","US","Nevada","country, state, region,...","United States","first-order administrative division","Nevada","39.25021","ADM1","NV"
+"33","New York",2,"NY","-74.00597","5128581","New York City","6252001","P","8804190","US","New York","city, village,...","United States","populated place","New York","40.71427","PPL","NY"
+"34","Odessa",1,"17","30.74383","698740","Odesa","690791","P","1015826","UA","Odesa","city, village,...","Ukraine","seat of a first-order administrative division","Odessa","46.48572","PPLA","51"
+"35","Ohio",2,"OH","-83.00018","5165418","Ohio","6252001","A","11467123","US","Ohio","country, state, region,...","United States","first-order administrative division","Ohio","40.25034","ADM1","OH"
+"36","Paris",1,"11","2.3488","2988507","Paris","3017382","P","2138551","FR","Paris","city, village,...","France","capital of a political entity","Île-de-France","48.85341","PPLC","IDF"
+"37","Peshawar",1,"03","71.57849","1168197","Peshawar","1168579","P","1218773","PK","Peshawar","city, village,...","Pakistan","seat of a first-order administrative division","Khyber Pakhtunkhwa","34.008","PPLA","KP"
+"38","SALT LAKE CITY",1,"UT","-111.89105","5780993","Salt Lake City","6252001","P","192672","US","Salt Lake City","city, village,...","United States","seat of a first-order administrative division","Utah","40.76078","PPLA","UT"
+"39","Salt Lake City",8,"UT","-111.89105","5780993","Salt Lake City","6252001","P","192672","US","Salt Lake City","city, village,...","United States","seat of a first-order administrative division","Utah","40.76078","PPLA","UT"
+"40","Salt Lake Mountains",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","St. Louis",1,"MO","-90.19789","4407066","St. Louis","6252001","P","315685","US","St Louis","city, village,...","United States","seat of a second-order administrative division","Missouri","38.62727","PPLA2","MO"
+"42","St. Petersburg",2,"66","30.31413","498817","Saint Petersburg","2017370","P","5351935","RU","St Petersburg","city, village,...","Russia","seat of a first-order administrative division","St.-Petersburg","59.93863","PPLA","SPE"
+"43","Stamford",8,"CT","-73.53873","4843564","Stamford","6252001","P","128874","US","Stamford","city, village,...","United States","populated place","Connecticut","41.05343","PPL","CT"
+"44","Stangerson",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Strand",2,"14","5.93333","3135833","Strand","3144096","P","0","NO","Strand","city, village,...","Norway","populated place","Rogaland","59.05","PPL","11"
+"46","U.S.A.",1,"00","-98.5","6252001","United States","6252001","A","327167434","US","United States","country, state, region,...","United States","independent political entity","","39.76","PCLI",NA
+"47","Underwood",1,"39","35.75","178740","Underwood","192950","L","0","KE","Underwood","parks,area, ...","Kenya","area","Nakuru County","-0.28333","AREA","31"
+"48","Utah",6,"UT","-111.75103","5549030","Utah","6252001","A","2427340","US","Utah","country, state, region,...","United States","first-order administrative division","Utah","39.25024","ADM1","UT"
+"49","Utrecht",1,"09","5.12222","2745912","Utrecht","2750405","P","361742","NL","Utrecht","city, village,...","The Netherlands","seat of a first-order administrative division","Utrecht","52.09083","PPLA","UT"
+"50","Young",1,"02","148.19063","7839794","Young","2077456","A","12699","AU","Young","country, state, region,...","Australia","historical second-order administrative division","New South Wales","-34.23934","ADM2H","NSW"
+"51","simul",1,"H","89.97812","1189806","Rani Simul","1210997","P","0","BD","Rani Simul","city, village,...","Bangladesh","populated place","Mymensingh Division","25.18359","PPL","H"
+"52","the City of the Elect",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","the State of Illinois",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","the State of Utah",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","the United States",1,"KS","-98.57979","4272021","Geographic Center of the Conterminous United States","6252001","L","0","US","Geographic Center of the Conterminous United States","parks,area, ...","United States","park","Kansas","39.82807","PRK","KS"
+"56","thrill",1,"G3","168.80008","6205546","Thrill Creek","2186224","H","0","NZ","Thrill Creek","stream, lake, ...","New Zealand","stream","West Coast","-44.10833","STM","WTC"
