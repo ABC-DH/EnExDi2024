@@ -18,7 +18,8 @@
 # In case of doubt, you can always restart from the beginning
 
 # set the options to your username in geonames
-options(geonamesUsername="simone.rebora")
+options(geonamesUsername="my_username")
+# you will have to substitute "my_username" with your actual username
 
 # load the library
 library(geonames)

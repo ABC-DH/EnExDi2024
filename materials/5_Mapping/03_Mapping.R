@@ -18,7 +18,7 @@
 # In case of doubt, you can always restart from the beginning
 
 library(leaflet)
-library(rgdal)
+library(sf)
 
 ### 1. Basic map
 
@@ -63,7 +63,7 @@ map
 ### 3. Map with shapes (badly drawn)
 
 # Read the shape file
-my_shape <- readOGR('datasets/shapefiles_India/POLYGON.shp')
+my_shape <- st_read('datasets/shapefiles_India/POLYGON.shp')
 
 # Prepare the map
 map <- leaflet() %>%
@@ -73,6 +73,47 @@ map <- leaflet() %>%
   
   # adding the shape
   addPolygons(data=my_shape) %>%
+  
+  # add circle markers
+  addCircleMarkers(data = data,
+                   lng = ~lng, 
+                   lat = ~lat,
+                   radius = ~ n*2,
+                   stroke = FALSE, fillOpacity = 0.5,
+                   popup = ~paste("<b>", text, "</b>" ,"<br>", "is cited<b>", n, "</b>", "time(s)", sep = " ")
+  )
+
+# show the map
+map
+
+### 4. Map with shapes (well done)
+# downloaded from: https://tapiquen-sig.jimdofree.com/english-version/free-downloads/
+
+# read shapefile
+my_shape <- st_read('datasets/World_Countries/SHP/World_Countries.shp')
+View(my_shape)
+
+# see which countries are present
+my_shape$COUNTRY
+
+# select a few countries (e.g. India, United Kingdom)
+my_countries <- c("India", "United Kingdom")
+
+# check which is my country
+which(my_shape$COUNTRY %in% my_countries)
+
+# reduce to selection
+my_shape2 <- my_shape[which(my_shape$COUNTRY %in% my_countries),]
+View(my_shape2)
+
+# Prepare the map
+map <- leaflet() %>%
+  
+  # Loading the base map
+  addProviderTiles(providers$OpenStreetMap)  %>% 
+  
+  # adding the shape
+  addPolygons(data=my_shape2) %>%
   
   # add circle markers
   addCircleMarkers(data = data,
